@@ -25,5 +25,6 @@ $(document).ready(function() {
 // this.client_ = vline.Client.create({
 //     serviceId: 'drewtest'
 	login("drewtest");
+	//$('#login').replaceWith(<input type="button" id="logout" value="Logout">);
   });
 });
